@@ -10,6 +10,7 @@ def encode_password(num: int):
 
     return int(encoded)
 
+# Khizar Khan
 def decode_password(num_string: int) -> int:
     decoded = ""
     for digit in num_string:
